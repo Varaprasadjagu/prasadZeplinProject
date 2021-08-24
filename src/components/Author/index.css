@@ -1,0 +1,18 @@
+.author-main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 80%;
+  margin-top: 150px;
+}
+.author-main-container1 {
+  display: flex;
+  align-items: center;
+}
+.author-main-paras {
+  padding-left: 40px;
+}
+.author-para2 {
+  color: #696871;
+  font-size: 16px;
+}

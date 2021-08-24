@@ -1,0 +1,43 @@
+.summary-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.summary-container1 {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.summary-heading {
+  font-size: 40px;
+  color: #000000;
+}
+.summary-para {
+  font-size: 16px;
+  color: blue;
+}
+.last-and-final {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.last-and-para1 {
+  font-size: 20px;
+  font-weight: bold;
+  color: #000000;
+}
+.summary-button {
+  background-color: #c31a12;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: bold;
+  height: 60px;
+  border-radius: 10px;
+  border-width: 0px;
+  padding-left: 20px;
+  padding-right: 20px;
+}

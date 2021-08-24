@@ -1,0 +1,39 @@
+.cart-container {
+  display: flex;
+
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+}
+.cart-img {
+  width: 50%;
+}
+
+.cart-heading {
+  color: #000000;
+  font-size: 54px;
+}
+.paras-container1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.cart-button {
+  background-color: #c31a12;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 400px;
+  padding: 20px;
+  border-radius: 15px;
+  border-width: 0px;
+}
+.level1 {
+  display: flex;
+  align-items: center;
+}
+.cart-para-hard {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  font-style: normal;
+}

@@ -1,0 +1,29 @@
+.correct {
+  background-color: blue;
+  height: 20px;
+  width: 20px;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+.bd-container-list {
+  background-color: #ffffff;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  width: 30%;
+  margin: 20px;
+  text-align: center;
+  border-radius: 8px;
+}
+.ListOfQuestions {
+  display: flex;
+  flex-wrap: wrap;
+  width: 90%;
+}
+.shadow {
+  box-shadow: 0 47px 49px 0 rgba(65, 62, 101, 0.3);
+}
+.center1 {
+  display: flex;
+  justify-content: center;
+}

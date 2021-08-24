@@ -1,0 +1,35 @@
+.nav-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 200px;
+  width: 95%;
+}
+.omega {
+  color: #19191b;
+  font-size: 23px;
+  font-weight: 900;
+}
+.sub-container {
+  display: flex;
+}
+.para1 {
+  color: #5454d4;
+  font-size: 18px;
+  font-weight: 400;
+  padding-right: 20px;
+}
+.para2 {
+  font-size: 18px;
+  font-weight: 400;
+  padding-right: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.button1 {
+  background-color: #c31a12;
+  padding: 10px;
+  border-radius: 10px;
+  color: #ffffff;
+}
